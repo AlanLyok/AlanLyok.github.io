@@ -287,8 +287,8 @@ body {
     grid-template-columns: 1fr 1fr;
     gap: 2em;
     align-items: center;
-    padding-bottom: 2%;
-    padding-top: 5%;
+    padding-bottom: 3%;
+    padding-top: 3%;
 }
 
 .knowledge__picture{
